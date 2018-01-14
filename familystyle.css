@@ -1,0 +1,33 @@
+
+
+body {text-align: center;}
+
+body {background-color: #F5F5DC;}
+   
+
+html { overflow-y: hidden; }
+
+a:link
+{
+color: #ff33ff;
+}
+a:visited
+{
+color: #9900cc;
+}
+a:hover
+{
+color: #e699ff;
+}
+a:active 
+{
+#660066
+}
+
+#navmenu li
+{
+display: inline;
+text-align: center;
+margin-right: 2em;
+font-size: 1.5em;
+}

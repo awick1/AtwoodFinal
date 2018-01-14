@@ -1,0 +1,29 @@
+
+
+html { overflow-y: hidden; }
+
+body
+{
+background: url(images/note.jpg) repeat-y center center fixed #F5F5DC; 
+margin-right: 20em;
+margin-left: 13em;
+}
+
+
+h1
+{
+font-family: Comic Sans MS;
+font-size: 3.5em;
+text-align: center;
+color: #00004d;
+margin-left: 2.2em;
+}
+
+.paragraph
+{
+color: #000; 
+text-align: left;
+font-family: Comic Sans MS; 
+font-size: 1em;
+}
+
